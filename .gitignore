@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.vscode
+*.pyc
+*.secret
+intelligenttrading-datastore.json
+.idea/
+*credentials.json
+.DS_Store
+Pipfile
